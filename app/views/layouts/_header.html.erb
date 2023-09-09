@@ -1,0 +1,25 @@
+<header>
+        <div class="header-logo">
+          <%= link_to("スタバn円ガチャ", "/") %>
+        </div>
+        <ul style="list-style: none; padding-left: 0;" class="header-menus">
+          <% if logged_in? %>
+            <li>
+              <%= link_to("ガチャ履歴", menus_path) %>
+            </li>
+            <li>
+              <%= link_to("ログアウト", logout_path) %>
+            </li>
+          <% else %>
+            <li>
+              <%= link_to("ガチャ履歴", login_path(from_gacha: true)) %>
+            </li>
+            <li>
+              <%= link_to("ログイン", login_path) %>
+            </li>
+            <li>
+              <%= link_to("新規登録", signup_path) %>
+            </li>
+          <% end %>
+        </ul>
+  </header>

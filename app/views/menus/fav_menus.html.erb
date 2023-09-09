@@ -1,0 +1,18 @@
+<div class="background-image-example">
+  
+  <div class="d-flex toggle-button align-items-center justify-content-center">
+    <%= button_to menus_path, method: :get, class: "button-off button-left" do %>
+      <i class="fas fa-history"></i>  ガチャ履歴
+    <% end %>
+    <%= button_to fav_menus_path, method: :get, class: "button-on button-right" do %>
+      <i class="fa-solid fa-star star-y" aria-hidden="true"></i>  お気に入り
+    <% end %>
+  </div>
+
+  <%= render 'menus/menus' %>
+
+  <% if @menus.any? %>
+    <%= will_paginate @menus, renderer: WillPaginate::ActionView::BootstrapLinkRenderer, params: { controller: :menus, action: :fav_menus}, class: "pagination" %>
+  <% end %>
+
+</div>

@@ -1,0 +1,1564 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+<title>æ é¤æåæå ±ï½ã¹ã¿ã¼ããã¯ã¹ ã³ã¼ãã¼ ã¸ã£ãã³</title>
+<meta content="ã¹ã¿ã¼ããã¯ã¹ ã³ã¼ãã¼ ã¸ã£ãã³ã®åãæ±ãååã®æ é¤æåæå ±ã«ã¤ãã¦ãç´¹ä»ãã¦ãã¾ãã" name="description"/>
+<meta content="æ é¤æåæå ±ï½ã¹ã¿ã¼ããã¯ã¹ ã³ã¼ãã¼ ã¸ã£ãã³" property="og:title"/>
+<meta content="ã¹ã¿ã¼ããã¯ã¹ ã³ã¼ãã¼ ã¸ã£ãã³ã®åãæ±ãååã®æ é¤æåæå ±ã«ã¤ãã¦ãç´¹ä»ãã¦ãã¾ãã" property="og:description"/>
+<meta content="https://d3vgbguy0yofad.cloudfront.net/images/og/new.jpg" property="og:image"/>
+<meta content="https://product.starbucks.co.jp/allergy/nutrient/" property="og:url"/>
+<link href="https://product.starbucks.co.jp/allergy/nutrient/" rel="canonical"/>
+<!-- meta tags -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="212733315441698" property="fb:app_id"/>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.starbucks.co.jp",
+                "name": "Home"
+            }
+        }
+        ,{
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.starbucks.co.jp//product.starbucks.co.jp/allergy/",
+                "name": "ã¢ã¬ã«ã²ã³ã»æ é¤æåã»åæåç£å°æå ±"
+            }
+        }
+        ,{
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.starbucks.co.jphttps://product.starbucks.co.jp/allergy/nutrient/",
+                "name": "æ é¤æåæå ±"
+            }
+        }
+    ]
+}
+</script>
+<meta content="summary_large_image" name="twitter:card"/>
+<link href="https://product.starbucks.co.jp/allergy/nutrient/" hreflang="ja" rel="alternate"/>
+<link href="https://product.starbucks.co.jp/allergy/nutrient/?lang=en" hreflang="en" rel="alternate"/>
+<link href="https://product.starbucks.co.jp/allergy/nutrient/" hreflang="x-default" rel="alternate"/>
+<!-- /meta tags -->
+<!-- css tags -->
+<link href="//d3vgbguy0yofad.cloudfront.net/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="//d3vgbguy0yofad.cloudfront.net/android-chrome-192x192.png" rel="icon" sizes="192x192"/>
+<link href="//d3vgbguy0yofad.cloudfront.net/favicon.ico" rel="icon" type="image/ico"/>
+<link href="//d3vgbguy0yofad.cloudfront.net/favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="//d3vgbguy0yofad.cloudfront.net/common/css/header_footer.css?ver=20220930" media="all" rel="stylesheet" type="text/css">
+<link href="//asset.menu.starbucks.co.jp/css/item-history.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://d3vgbguy0yofad.cloudfront.net/common/css/element.css?ver=20170920" media="all" rel="stylesheet" type="text/css">
+<link href="/allergy_asset/202302021425-99ce41/css/utility.css" media="all" rel="stylesheet" type="text/css">
+<link href="/allergy_asset/202302021425-99ce41/css/common.css" media="all" rel="stylesheet" type="text/css">
+<link href="/allergy_asset/202302021425-99ce41/css/tippy-customize.css" media="all" rel="stylesheet" type="text/css">
+<!-- /css tags -->
+<!-- script tags -->
+<script charset="UTF-8" src="//d3vgbguy0yofad.cloudfront.net/common/js/subdomain.js?ver=20141001"></script>
+<script charset="UTF-8" src="//d3vgbguy0yofad.cloudfront.net/common/js/header_footer.js?ver=20220930"></script>
+<script charset="UTF-8" src="//d3vgbguy0yofad.cloudfront.net/common/js/ga2022.js"></script>
+<script>
+window.onpageshow = () => {
+      let script = document.createElement('script');
+      script.setAttribute('src', '//asset.menu.starbucks.co.jp/js/item-history.js');
+      document.body.appendChild(script);
+}
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TQDTRRG');</script>
+<script>
+var auth_cookie_match = document.cookie.match(/5e81a41e977d37ba4a7770fc0a16ca1a=(\w+)/);
+var m0laqeatfw3ayw5ld3i587e0xtqmhbpf = "";
+if(auth_cookie_match && auth_cookie_match[1]){
+  m0laqeatfw3ayw5ld3i587e0xtqmhbpf = auth_cookie_match[1];
+}
+</script>
+<script>$ = $jq2022;</script>
+<script src="/allergy_asset/202302021425-99ce41/js/vue.js"></script>
+<script charset="UTF-8" src="/allergy_asset/202302021425-99ce41/js/product-nutrient-display.js"></script>
+<script src="/allergy_asset/202302021425-99ce41/js/promise-7.0.4.min.js"></script>
+<script src="/allergy_asset/202302021425-99ce41/js/axios.min.js"></script>
+<script charset="UTF-8" src="/allergy_asset/202302021425-99ce41/js/common.js"></script>
+<script charset="UTF-8" src="/allergy_asset/202302021425-99ce41/js/changelang.js"></script>
+<script charset="UTF-8" src="/allergy_asset/202302021425-99ce41/js/table.js"></script>
+<script charset="UTF-8" src="/allergy_asset/202302021425-99ce41/js/web_ichiran.js"></script>
+<!-- /script tags -->
+</link></link></link></link></link></link></head>
+<body data-category="21Fall1_allergy_nutrient">
+<header class="globalNav js-megaNav web_view_none">
+<nav class="globalNav__nav__wrap">
+<div class="globalNav__sp__wrapper pc-hidden">
+<div class="globalNav__logo">
+<a class="block" href="//www.starbucks.co.jp/?nid=mm">
+<img alt="ã¹ã¿ã¼ããã¯ã¹ ã³ã¼ãã¼ ã¸ã£ãã³" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/logo.svg"/>
+</a>
+</div>
+<div class="globalNav__sp__right">
+<ul class="globalNav__sp">
+<li>
+<a class="auxNav__iconLink toggleButton searchBtn" data-toggle-button="search">
+<img alt="æ¤ç´¢ãã¿ã³" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_search.svg"/>
+</a>
+</li>
+<li>
+<a class="auxNav__iconLink" data-current-location="cart" href="//cart.starbucks.co.jp/cart?nid=mm">
+<span class="js-normalIcon osIcon none">
+<img alt="ã«ã¼ã" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_cart_in.svg"/>
+<span class="js-headercart-qty"></span>
+</span>
+<span class="js-zeroIcon osIcon">
+<img alt="ã«ã¼ã" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_cart.svg"/>
+</span>
+</a>
+</li>
+</ul>
+<div class="auxNav__btnLink">
+<div class="hamburger toggleHamburger toggleButton">
+<span></span>
+<span></span>
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="globalNav__nav">
+<div class="globalNav__logo sp-hidden">
+<a class="block" href="//www.starbucks.co.jp/?nid=mm">
+<img alt="ã¹ã¿ã¼ããã¯ã¹ ã³ã¼ãã¼ ã¸ã£ãã³" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/logo.svg"/>
+</a>
+</div>
+<div class="globalNav__wrapper slideAreaSP slideHorizontalSP slideHidden" data-area="global_nav">
+<ul class="globalNav__list">
+<li class="cursor">
+<button class="globalNav__listLink toggleButton" data-current-location="menu" data-toggle-button="menu">ã¡ãã¥ã¼</button>
+</li>
+<li class="cursor">
+<button class="globalNav__listLink toggleButton" data-current-location="service" data-toggle-button="service">ãµã¼ãã¹</button>
+</li>
+<li>
+<a class="globalNav__listLink" data-current-location="reward" href="//www.starbucks.co.jp/rewards/?nid=mm">ãªã¯ã¼ã</a>
+</li>
+</ul>
+<div class="auxNav">
+<ul class="auxNav__icon">
+<li class="sp-hidden">
+<button class="auxNav__iconLink toggleButton searchBtn" data-toggle-button="search">
+<img alt="æ¤ç´¢" id="search-icon" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_search.svg"/>
+</button>
+</li>
+<li>
+<a class="auxNav__iconLink" data-current-location="store" href="//store.starbucks.co.jp/?nid=mm">
+<div class="auxNav_sp">
+<div class="img-wrap">
+<img alt="åºèæ¤ç´¢" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_pin.svg"/>
+</div>
+<span class="pc-hidden store-search__text">åºèæ¤ç´¢</span>
+</div>
+</a>
+</li>
+<li class="cursor">
+<button class="auxNav__iconLink toggleButton js-hover-mystarbucks" data-current-location="mystarbucks" data-toggle-button="mystarbucks">
+<div class="auxNav_sp">
+<div class="img-wrap">
+<img alt="ã¢ã«ã¦ã³ã" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_mypage.svg"/>
+</div>
+<span class="pc-hidden logout__text">ã¢ã«ã¦ã³ã</span>
+</div>
+</button>
+</li>
+<li class="sp-hidden">
+<a class="auxNav__iconLink" data-current-location="cart" href="//cart.starbucks.co.jp/cart?nid=mm">
+<span class="js-normalIcon osIcon none">
+<img alt="ã«ã¼ã" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_cart_in.svg"/>
+<span class="js-headercart-qty"></span>
+</span>
+<span class="js-zeroIcon osIcon">
+<img alt="ã«ã¼ã" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_cart.svg"/>
+</span>
+</a>
+</li>
+</ul>
+<ul class="auxNav__btn">
+<li class="auxNav__btn-left-icon"><a class="auxNav__btnLink" href="//stories.starbucks.co.jp/?nid=mm" target="_blank"><img alt="STARBUCKS(R) STORIES JAPAN" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/logo_stories.svg"/></a></li>
+<li class="auxNav__btn-right-icon"><a class="auxNav__btnLink" href="//www.starbucks.co.jp/reserve/roastery/?nid=mm"><img alt="STARBUCKS RESERVE(R)" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/logo_reserve.svg"/></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- ã¡ãã¥ã¼ -->
+<div class="globalNav__open globalNav__open_menu slideArea slideAreaSP slideHorizontalSP slideHidden" data-area="menu">
+<div class="cursor-back">
+<button class="toggleButton pc-hidden" data-toggle-button="global_nav"><span>ã¡ãã¥ã¼</span></button>
+</div>
+<ul class="nav__open_menu">
+<li class="globalNav__menu_items">
+<ul class="nav__open_ul">
+<li class="subnav_open globalNav__circle nav__open_li">
+<a href="javascript:void(0)">
+<img alt="ããã¬ãã¸" class="nav_img" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/menu-beverage.jpg"/>
+<p>ããã¬ãã¸</p>
+</a>
+<div class="subnav">
+<ul class="nav-item">
+<li><a href="//product.starbucks.co.jp/beverage/?nid=mm">å­£ç¯ã®ãããã</a></li>
+<li><a href="//product.starbucks.co.jp/beverage/drip/?nid=mm">ã³ã¼ãã¼</a></li>
+<li><a href="//product.starbucks.co.jp/beverage/espresso/?nid=mm">ã¨ã¹ãã¬ãã½</a></li>
+<li><a href="//product.starbucks.co.jp/beverage/frappuccino/?nid=mm">ãã©ããã¼ã®</a></li>
+<li><a href="//product.starbucks.co.jp/beverage/tea/?nid=mm">ãã£ã¼ | TEVANAâ¢</a></li>
+<li><a href="//product.starbucks.co.jp/beverage/beverage-others/?nid=mm">ãã®ä»</a></li>
+<li><a href="//product.starbucks.co.jp/beverage/arriviamo/?nid=mm">ã¯ã©ããã«ã¯ãã« | ARRIVIAMOâ¢</a></li>
+</ul>
+</div>
+</li>
+<li class="subnav_open globalNav__circle nav__open_li">
+<a href="javascript:void(0)">
+<img alt="ãã¼ã" class="nav_img" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/menu-food.jpg"/>
+<p>ãã¼ã</p>
+</a>
+<div class="subnav">
+<ul class="nav-item">
+<li><a href="//product.starbucks.co.jp/food/?nid=mm">å­£ç¯ã®ãããã</a></li>
+<li><a href="//product.starbucks.co.jp/food/dessert/?nid=mm">ãã¶ã¼ã</a></li>
+<li><a href="//product.starbucks.co.jp/food/pastry/?nid=mm">ãã¹ããªã¼</a></li>
+<li><a href="//product.starbucks.co.jp/food/sandwich/?nid=mm">ãµã³ãã¤ãã</a></li>
+<li><a href="//product.starbucks.co.jp/food/package/?nid=mm">ããã±ã¼ã¸ãã¼ã</a></li>
+<li><a href="//product.starbucks.co.jp/food/food-others/?nid=mm">ãã®ä»</a></li>
+</ul>
+</div>
+</li>
+<li class="subnav_open globalNav__circle nav__open_li">
+<a href="javascript:void(0)">
+<img alt="ã³ã¼ãã¼è±" class="nav_img" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/menu-beans.jpg"/>
+<p>ã³ã¼ãã¼è±</p>
+</a>
+<div class="subnav">
+<ul class="nav-item">
+<li><a href="//product.starbucks.co.jp/beans/?nid=mm">å­£ç¯ã®ãããã</a></li>
+<li><a href="//product.starbucks.co.jp/beans/corecoffee/?nid=mm">CORE COFFEE</a></li>
+<li><a href="//product.starbucks.co.jp/beans/seasonal/?nid=mm">SEASONAL COFFEE</a></li>
+<li><a href="//product.starbucks.co.jp/beans/reserve/?nid=mm">ã¹ã¿ã¼ããã¯ã¹ ãªã¶ã¼ã®</a></li>
+<li><a href="//product.starbucks.co.jp/beans/origami/?nid=mm">ã¹ã¿ã¼ããã¯ã¹ ãªãªã¬ã®</a></li>
+<li><a href="//product.starbucks.co.jp/beans/via/?nid=mm">ã¹ã¿ã¼ããã¯ã¹ ã´ã£ã¢®</a></li>
+<li><a href="//product.starbucks.co.jp/beans/coffeerelated/?nid=mm">ã³ã¼ãã¼é¢é£åå</a></li>
+</ul>
+</div>
+</li>
+<li class="globalNav__circle nav__open_li">
+<a href="//product.starbucks.co.jp/tealeaf/?nid=mm">
+<img alt="ãã£ã¼ã»ç´è¶" class="nav_img" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/menu-tealeaf.jpg"/>
+<p>ãã£ã¼ã»ç´è¶</p>
+</a>
+</li>
+<li class="subnav_open globalNav__circle nav__open_li">
+<a href="javascript:void(0)">
+<img alt="ã¿ã³ãã©ã¼ï¼ãã°ã«ãã" class="nav_img" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/menu-tumblermug.jpg"/>
+<p>ã¿ã³ãã©ã¼ï¼<br/>ãã°ã«ãã</p>
+</a>
+<div class="subnav">
+<ul class="nav-item">
+<li><a href="//product.starbucks.co.jp/tumblermug/?nid=mm">å­£ç¯ã®ãããã</a></li>
+<li><a href="//product.starbucks.co.jp/tumblermug/bottle/?nid=mm">ããã«</a></li>
+<li><a href="//product.starbucks.co.jp/tumblermug/tumbler/?nid=mm">ã¿ã³ãã©ã¼</a></li>
+<li><a href="//product.starbucks.co.jp/tumblermug/mug/?nid=mm">ãã°ã«ãã</a></li>
+</ul>
+</div>
+</li>
+<li class="subnav_open globalNav__circle nav__open_li">
+<a href="javascript:void(0)">
+<img alt="ã°ããº" class="nav_img" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/menu-goods.jpg"/>
+<p>ã°ããº</p>
+</a>
+<div class="subnav">
+<ul class="nav-item">
+<li><a href="//product.starbucks.co.jp/goods/?nid=mm">å­£ç¯ã®ãããã</a></li>
+<li><a href="//product.starbucks.co.jp/goods/goods-main/?nid=mm">ã°ããº</a></li>
+<li><a href="//product.starbucks.co.jp/goods/sbcard/?nid=mm">ã¹ã¿ã¼ããã¯ã¹ã«ã¼ã</a></li>
+<li><a href="//product.starbucks.co.jp/goods/bevcard/?nid=mm">ããã¬ãã¸ã«ã¼ã</a></li>
+</ul>
+</div>
+</li>
+<li class="globalNav__circle nav__open_li">
+<a href="//product.starbucks.co.jp/brewing/?nid=mm">
+<img alt="ã³ã¼ãã¼å¨å·" class="nav_img" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/menu-brewing.jpg"/>
+<p>ã³ã¼ãã¼å¨å·</p>
+</a>
+</li>
+<li class="globalNav__circle nav__open_li">
+<a href="//www.starbucks.co.jp/onlinestore/gift/?nid=mm">
+<img alt="ã®ãã" class="nav_img" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/menu-gift.jpg"/>
+<p>ã®ãã</p>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="nav__open_store_wrap">
+<ul class="nav__open_store">
+<p class="onlinestore font-gray"><span class="title-en en">ONLINE STORE</span><span class="title-ja">å­£ç¯ã®ãããã</span></p>
+<li class="tumbler_content">
+<a class="tumbler"><img alt="" class="nav_store_img" src=""/>
+<p class="tumbler_ttl">product name<span class="en">price</span></p>
+</a>
+</li>
+<li class="tumbler_content">
+<a class="tumbler"><img alt="" class="nav_store_img" src=""/>
+<p class="tumbler_ttl">product name<span class="en">price</span></p>
+</a>
+</li>
+<li class="tumbler_content">
+<a class="tumbler"><img alt="" class="nav_store_img" src=""/>
+<p class="tumbler_ttl">product name<span class="en">price</span></p>
+</a>
+</li>
+</ul>
+</div>
+<ul class="nav__open_link">
+<div class="nav__open_under"><a href="//www.starbucks.co.jp/oos/huc/?nid=mm">ã¹ã¼ãã¼ã»ã³ã³ããã»ç¾è²¨åºãåãæ±ã</a></div>
+<div class="nav__open_under"><a href="//product.starbucks.co.jp/allergy/?nid=mm">ã¢ã¬ã«ã²ã³ã»æ é¤æåã»åæåç£å°æå ±</a></div>
+<div class="nav__open_under"><a href="//www.starbucks.co.jp/faq/?nid=mm">ãããããè³ªåã»ãåãåãã</a></div>
+</ul>
+<div class="margin-for-browser"></div>
+</div>
+<!-- ãµã¼ãã¹ -->
+<div class="globalNav__open globalNav__open__service slideArea slideAreaSP slideHorizontalSP slideHidden" data-area="service">
+<div class="cursor-back">
+<button class="toggleButton pc-hidden" data-toggle-button="global_nav"><span>ãµã¼ãã¹</span></button>
+</div>
+<ul class="nav__open_service">
+<li id="My_starbucks">
+<a href="//www.starbucks.co.jp/howto/mystarbucks/">
+<div class="globalNav__circle">
+<img alt="My Starbucks" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_mypage.svg"/>
+</div>
+<p class="en">My Starbucks</p>
+</a>
+</li>
+<li class="globalNav__service_items">
+<ul>
+<li class="subnav_open globalNav__circle">
+<a href="javascript:void(0)">
+<img alt="ãªã³ã©ã¤ã³ã¹ãã¢" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_online-store.png"/>
+<p>ãªã³ã©ã¤ã³ã¹ãã¢</p>
+</a>
+<div class="subnav">
+<ul class="nav-item">
+<li><a href="//cart.starbucks.co.jp/mystore?nid=mm">ãæ³¨æç¶æ³ç¢ºèª</a></li>
+<li><a href="//www.starbucks.co.jp/onlinestore/?nid=mm">ãµã¼ãã¹ã«ã¤ãã¦</a></li>
+</ul>
+</div>
+</li>
+<li class="subnav_open globalNav__circle">
+<a href="javascript:void(0)">
+<img alt="ã¢ãã¤ã«ãªã¼ãã¼&amp;ãã¤" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_MOP.png"/>
+<p>ã¢ãã¤ã«<br/>ãªã¼ãã¼&amp;ãã¤</p>
+</a>
+<div class="subnav">
+<ul class="nav-item">
+<li><a href="//webapp.starbucks.co.jp/openLink?nid=mm">ã¢ãã¤ã«ãªã¼ãã¼&amp;ãã¤ã§æ³¨æãã</a></li>
+<li><a href="//www.starbucks.co.jp/mobileorder/guide/?nid=mm">ãå©ç¨ã¬ã¤ã</a></li>
+</ul>
+</div>
+</li>
+<li class="subnav_open globalNav__circle">
+<a href="javascript:void(0)">
+<img alt="ã¹ã¿ã¼ããã¯ã¹ã«ã¼ã" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_card.png"/>
+<p>ã¹ã¿ã¼ããã¯ã¹<br/>ã«ã¼ã</p>
+</a>
+<div class="subnav">
+<ul class="nav-item">
+<li><a href="//sbcard.starbucks.co.jp/card/sbcardinfo?nid=mm">ç®¡çç»é¢</a></li>
+<li><a href="//sbcard.starbucks.co.jp/card/inquire/?nid=mm">ã¹ã¿ã¼ããã¯ã¹ ã«ã¼ãæ®é«ç§ä¼</a></li>
+<li><a href="//www.starbucks.co.jp/dscgift/?nid=mm">ãã¸ã¿ã« ã®ãã ã«ã¼ããè´ã</a></li>
+<li><a href="//www.starbucks.co.jp/card/businessgift/?nid=mm">25æä»¥ä¸ã®ãã¾ã¨ãæ³¨æ</a></li>
+<li><a href="//www.starbucks.co.jp/card/?nid=mm">ãµã¼ãã¹ã«ã¤ãã¦</a></li>
+</ul>
+</div>
+</li>
+<li class="subnav_open globalNav__circle">
+<a href="javascript:void(0)">
+<img alt="Starbucks eGift" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_eGift.png"/>
+<p class="en">Starbucks eGift</p>
+</a>
+<div class="subnav">
+<ul class="nav-item">
+<li><a href="//gift.starbucks.co.jp/?nid=mm">ããªã³ã¯ã»ãã¼ããã±ãããéã</a></li>
+<li><a href="//gift.starbucks.co.jp/history/sent?nid=mm">ã®ããå±¥æ­´</a></li>
+<li><a href="//gift.starbucks.co.jp/howto?nid=mm">ãå©ç¨ã¬ã¤ã</a></li>
+</ul>
+</div>
+</li>
+<li class="subnav_open globalNav__circle">
+<a href="javascript:void(0)">
+<img alt="ã¹ã¿ã¼ããã¯ã¹® ãªã¯ã¼ã" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_rewards.png"/>
+<p>ã¹ã¿ã¼ããã¯ã¹®<br/>ãªã¯ã¼ã</p>
+</a>
+<div class="subnav">
+<ul class="nav-item">
+<li><a href="//www.starbucks.co.jp/mystarbucks/reward/?nid=mm">ç®¡çç»é¢</a></li>
+<li><a href="//www.starbucks.co.jp/rewards/?nid=mm">ãµã¼ãã¹ã«ã¤ãã¦</a></li>
+</ul>
+</div>
+</li>
+<li class="globalNav__circle">
+<a href="//www.starbucks.co.jp/mobile-app/?nid=mm">
+<img alt="å¬å¼ã¢ããª" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/icon_application.png"/>
+<p>å¬å¼ã¢ããª</p>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="nav__open_Howto_wrap">
+<ul class="nav__open_Howto">
+<li class="nav__open_Howto-item">
+<span class="font-gray title-en en">HOW TO STARBUCKS</span>
+<ul class="How_col">
+<li><a href="//www.starbucks.co.jp/howto/?nid=mm"><p>ã¹ã¿ã¼ããã¯ã¹ã®æ¥½ãã¿æ¹</p></a></li>
+<li><a href="//www.starbucks.co.jp/howto/togo/?nid=mm"><p>STARBUCKS TO GO</p></a></li>
+<li><a href="//dyf.starbucks.co.jp/?nid=mm"><p>ãæ°ã«å¥ãã®ä¸æ¯ãæ¢ãã</p></a></li>
+<li><a href="//www.starbucks.co.jp/tumblerbu/bulletinboard/?nid=mm"><p>ã¿ã³ãã©ã¼é¨</p></a></li>
+<li><a href="//www.starbucks.co.jp/event/?nid=mm"><p>ã¤ãã³ãæå ±</p></a></li>
+<li><a href="//weproudlyservestarbucks.nestle.jp/?nid=mm"><p>ãªãã£ã¹åãã³ã¼ãã¼ãµã¼ãã¹</p></a></li>
+</ul>
+</li>
+<li class="nav__open_Howto-item">
+<span class="font-gray font-bold">ã³ã¼ãã¼ãç¥ãã»å­¦ã¶</span>
+<ul class="How_col">
+<li><a href="//www.starbucks.co.jp/howto/coffee/skill.html?nid=mm"><p>ããããã³ã¼ãã¼ããããã³ã</p></a></li>
+<li><a href="//www.starbucks.co.jp/coffee/roast.html?nid=mm"><p>å¥½ã¿ã®ã³ã¼ãã¼è±ãè¦ã¤ããã</p></a></li>
+<li><a href="//www.starbucks.co.jp/coffee/recipe/?nid=mm"><p>ã¢ã¬ã³ã¸ã³ã¼ãã¼ã¬ã·ã</p></a></li>
+<li><a href="//www.starbucks.co.jp/seminar/?nid=mm"><p>ã³ã¼ãã¼ã»ããã¼</p></a></li>
+<li><a href="//www.starbucks.co.jp/howto/coffee/passport.html?nid=mm"><p>ã³ã¼ãã¼ãã¹ãã¼ã</p></a></li>
+<li><a href="//stories.starbucks.co.jp/stories/ethical-sourcing/?nid=mm" target="_blank"><p>å«ççãªèª¿é</p></a></li>
+<li><a href="//www.starbucks.co.jp/coffee/meet_your_coffee/?nid=mm"><p>MEET YOUR COFFEE</p></a></li>
+</ul>
+</li>
+<li class="nav__open_Howto-item nav__open_Howto-item_faq">
+<span><a href="//www.starbucks.co.jp/faq/?nid=mm">ãããããè³ªåã»ãåãåãã</a></span>
+</li>
+</ul>
+<div class="margin-for-browser"></div>
+</div>
+</div>
+<div class="globalNav__open slideAreaSP slideHorizontalSP slideHidden subnav-mystarbucks serviceAndLogin" data-area="mystarbucks">
+<div class="cursor-back">
+<button class="toggleButton pc-hidden" data-toggle-button="global_nav"><span>ã¢ã«ã¦ã³ã</span></button>
+</div>
+<div class="subnav">
+<ul class="nav-item if-login">
+<li><a href="//www.starbucks.co.jp/mystarbucks/?nid=mm">My Page</a></li>
+<li><a href="//www.starbucks.co.jp/mystarbucks/logout/?nid=mm">ã­ã°ã¢ã¦ã</a></li>
+<li><a href="//www.starbucks.co.jp/faq/?nid=mm">ãããããè³ªåã»ãåãåãã</a></li>
+</ul>
+<ul class="nav-item if-not-login">
+<li><a href="//www.starbucks.co.jp/mystarbucks/?nid=mm">My Page</a></li>
+<li><a href="//www.starbucks.co.jp/mystarbucks/login/?nid=mm">ã­ã°ã¤ã³</a></li>
+<li><a href="//www.starbucks.co.jp/register/mystarbucks/input/?nid=mm">æ°è¦ä¼å¡ç»é²</a></li>
+<li><a href="//www.starbucks.co.jp/faq/?nid=mm">ãããããè³ªåã»ãåãåãã</a></li>
+</ul>
+<div class="margin-for-browser"></div>
+</div>
+</div>
+<div class="slideArea slideAreaSP search-area" data-area="search">
+<div class="search-area-inner2">
+<!-- close icon -->
+<div class="toggleButton" data-toggle-button="search" style="display: flex;justify-content: flex-end;padding-bottom: 40px;">
+<svg height="32" id="btn_close" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
+<circle cx="16" cy="16" data-name="Ellipse 2996" fill="none" id="Ellipse_2996" r="16"></circle>
+<path d="M13.06,12l5.72-5.72a.75.75,0,1,0-1.06-1.06L12,10.94,6.28,5.22A.75.75,0,0,0,5.22,6.28L10.94,12,5.22,17.72a.75.75,0,1,0,1.06,1.06L12,13.06l5.72,5.72a.745.745,0,0,0,.53.22.75.75,0,0,0,.53-1.28Z" fill="rgba(0,0,0,0.87)" id="svg0" transform="translate(4 4)"></path>
+</svg>
+</div>
+<!-- -------- -->
+<div class="search-area-inner">
+<div class="search-category-wrap">
+<select class="search-category" name="search-category">
+<option value="all">ãã¹ã¦ã®ã«ãã´ãªã¼</option>
+<option value="beverage">ããªã³ã¯ã¡ãã¥ã¼</option>
+<option value="food">ãã¼ãã¡ãã¥ã¼</option>
+<option value="beans">ã³ã¼ãã¼è±</option>
+<option value="tea">ãã£ã¼</option>
+<option value="tumblermug">ã¿ã³ãã©ã¼&amp;ãã°ã«ãã</option>
+<option value="goods">ã°ããº</option>
+<option value="brewing">ã³ã¼ãã¼å¨å·</option>
+</select>
+</div>
+<div class="search-keyword-wrap">
+<button class="search-keyword-button-area"></button>
+<input class="search-keyword" enterkeyhint="search" id="search-keyword" name="search-keyword" placeholder="ã­ã¼ã¯ã¼ããå¥å" type="text"/>
+<div class="search-keyword-delete"><img alt="åé¤" src="//d3vgbguy0yofad.cloudfront.net/common/images/header/btn_delete.png"/></div>
+</div>
+</div>
+</div>
+<div class="history_component history_component_header"></div>
+</div>
+<div class="globalNav__bg"></div>
+</nav>
+</header>
+<nav class="breadcrumb-wrap">
+<ul class="breadcrumb">
+<li><a href="//www.starbucks.co.jp">Home</a></li>
+<li><a href="//product.starbucks.co.jp/allergy/">ã¢ã¬ã«ã²ã³ã»æ é¤æåã»åæåç£å°æå ±</a></li>
+<li><span class="current">æ é¤æåæå ±</span></li>
+</ul>
+</nav>
+<div class="mainContents notExNav">
+<article id="allergen">
+<header class="local">
+<div class="p-header-language">
+<div class="c-language js-selectLanguage is-hiddenSP">
+<div class="c-language-current">English</div>
+<ul class="c-language-item">
+<li><span data-lang="ja">Japanese</span></li>
+<li><span data-lang="en">English</span></li>
+</ul>
+</div>
+</div>
+</header>
+<div>
+<div class="alle-l-outer u-mt35 js-languages" lang="ja">
+<div class="alle-l-outer-sp u-mt40-sp">
+<div class="alle-l-inner">
+<h1 class="u-fs32 u-fs20-sp u-col-5">æ é¤æåæå ±</h1>
+<div class="alle-nutrient-size-note" v-if="beverage_or_food_filter !== 'food'">
+<p>ãµã¤ãºãè¤æ°ããååã¯Tallãµã¤ãºãåã«ç®åºãã¦ãã¾ããååãã¼ã¸ããããµã¤ãºæ¯ã®æå ±ãç¢ºèªã§ãã¾ãã</p>
+</div>
+<div class="u-mt20 u-mt20-sp">
+<div class="alle-c-box is-line">
+<div class="_box-title">
+<i class="alle-c-icon is-anno"></i>
+<span>æ³¨æäºé ï¼å¿ããèª­ã¿ãã ããï¼</span>
+</div>
+<div class="_box-body">
+<div class="js-more">
+<div class="js-more-pre">
+<ul class="alle-c-list u-fs13 u-col-2">
+<li>åãã¼ã¿ã¯éææ´æ°ããã¾ãã®ã§ãæçµæ´æ°æ¥ããç¢ºèªãã ããã</li>
+</ul>
+</div>
+<div class="js-more-main">
+<ul class="alle-c-list u-fs13 u-col-2">
+<li>æ°å¤ã¯ååã¨ãã¦1é£å½ããã®å¤ã§ãã</li>
+<li>æ¨æºçãªã¬ã·ãã«åºã¥ããæ¤æ»æ©é¢ã§åæããæ°å¤ï¼ä¸é¨ã®åææã«ã¤ãã¦ã¯æ¥æ¬é£åæ¨æºæåè¡¨ç­ã«ããè¨ç®å¤ï¼ããã¨ã«ç®åºãã¦ããã¾ããå®éã®ååã¨ã¯ç°ãªãå ´åããããã¾ãã</li>
+<li>å¾®éã®å ´åã¯ã0ãããã¼ã¿ãæã¡åããã¦ããªãå ´åã¯ã-ãã¨è¡¨ç¤ºãã¦ããã¾ãã</li>
+<li>ã«ã¹ã¿ãã¤ãºãããå ´åããå®¢æ§ãèªèº«ã§ç ç³ããã«ã¯ç­ãå¥æ·»ãããå ´åã«ã¯æå ±ãç°ãªãã¾ããåååã®ãã¼ã¸ãããã«ã¹ã¿ãã¤ãºãããéã®æå ±ããç¢ºèªããã ãã¾ãã</li>
+<li>ã¹ã¿ã¼ããã¯ã¹ã§ä½¿ç¨ãã¦ããè±ä¹³ã¯ãèª¿è£½è±ä¹³ã®ãã¨ã§ãã</li>
+<li>ä½èèªã¿ã¤ãã¯ãã«ã¯ã¨ç¡èèªä¹³ããã¬ã³ããã¦ãã¾ãã</li>
+<li>ãã¬ã¹ã¯ããã«ã¯ã¨ãã¤ããç¨ã¯ãªã¼ã ï¼ä¹³èèªã¨æ¤ç©æ§èèªãå«ãã¯ãªã¼ã ï¼ããã¬ã³ããã¦ãã¾ãã</li>
+<li>è±ä¹³ãã¢ã¼ã¢ã³ããã«ã¯ããªã¼ããã«ã¯ã¯çä¹³ãä¹³é£²æã§ã¯ããã¾ããã</li>
+<li>ã·ã­ããã«ã¯é¦æãä½¿ç¨ãã¦ããã¾ãã</li>
+</ul>
+</div>
+<div class="_box-more js-more-btn">
+<span>ç¶ããèª­ã</span>
+<span>éãã</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="alle-l-outer u-mt35 js-languages" lang="en">
+<div class="alle-l-outer-sp u-mt40-sp">
+<div class="alle-l-inner">
+<h2 class="u-fs32 u-fs20-sp u-col-5">Nutritional information</h2>
+<div class="alle-nutrient-size-note" v-if="beverage_or_food_filter !== 'food'">
+<p>For products with multiple sizes, information on Tall size beverage is displayed. Go to a product page to find the information for each size.</p>
+</div>
+<div class="u-mt20 u-mt20-sp">
+<div class="alle-c-box is-line">
+<div class="_box-title">
+<i class="alle-c-icon is-anno"></i>
+<span>Notice (Please be sure to read)</span>
+</div>
+<div class="_box-body">
+<div class="js-more">
+<div class="js-more-pre">
+<ul class="alle-c-list u-fs13 u-col-2">
+<li>The information is updated as needed. Please check the last update date.</li>
+</ul>
+</div>
+<div class="js-more-main">
+<ul class="alle-c-list u-fs13 u-col-2">
+<li>The values are per serving.</li>
+<li>The values may differ from actual product. Calculations are based on standard recipes and figures analyzed by laboratories (for some ingredients, calculated values based on the Standard Tables of Food Composition in Japan, etc.).</li>
+<li>The value is indicated as "0" for trace amounts and "-" if the data is not available.</li>
+<li>The information will change if you customize or add sugar, milk, etc. to your beverage. Please refer to each product page for information on customization.</li>
+<li>Starbucks uses an adjusted soy milk.</li>
+<li>The low-fat milk is a blend of whole milk and non-fat milk.</li>
+<li>Breve is a blend of milk and cream for whipped cream (a cream which contains milk fat and vegetable fat).</li>
+<li>Soy milk, almond milk and oat milk are not milk products.</li>
+<li>Our syrups contain aroma agents.</li>
+</ul>
+</div>
+<div class="_box-more js-more-btn">
+<span>Read more</span>
+<span>Close</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="alle-l-outer u-mt30" v-if="grouping.STARBUCKS">
+<div class="u-mt10-sp">
+<div class="alle-l-inner">
+<div class="alle-p-filter-area">
+<div class="alle-p-filter-area__main">
+<p class="u-fs11-sp u-col-2" v-if="lang==='ja'">çµãè¾¼ã¿</p>
+<p class="u-fs11-sp u-col-2" v-else="">Refine your search</p>
+<div class="js-form-switch">
+<div class="alle-c-form-switch-list u-mt5 u-mt10-sp js-head">
+<div class="alle-c-form-switch is-M">
+<input @click="click_store_kbn('all')" checked="" class="" id="_ja_check-switch-1" name="select-type" type="radio" v-model="beverage_or_food_filter" value="all"/>
+<label for="_ja_check-switch-1">
+<span v-if="lang==='ja'">ãã¹ã¦</span>
+<span v-else="">All</span>
+</label>
+</div>
+<div class="alle-c-form-switch is-M">
+<input @click="click_store_kbn('beverage')" class="" id="_ja_check-switch-2" name="select-type" type="radio" v-model="beverage_or_food_filter" value="beverage"/>
+<label for="_ja_check-switch-2">
+<span v-if="lang==='ja'">ããã¬ãã¸</span>
+<span v-else="">Beverage</span>
+</label>
+</div>
+<div class="alle-c-form-switch is-M">
+<input @click="click_store_kbn('food')" class="" id="_ja_check-switch-3" name="select-type" type="radio" v-model="beverage_or_food_filter" value="food"/>
+<label for="_ja_check-switch-3">
+<span v-if="lang==='ja'">ãã¼ã</span>
+<span v-else="">Food</span>
+</label>
+</div>
+</div>
+<div class="js-body">
+<div class="js-item" v-if="beverage_or_food_filter === 'beverage'">
+<div class="alle-c-form-radio-list u-mt20 u-mt10-sp">
+<div class="alle-c-form-radio is-mark is-mark-logo" v-if="grouping.STARBUCKS.beverage.hasData">
+<input @click="click_store_kbn2('STARBUCKS')" id="beverage_STARBUCKS" name="ja_select-type-sub2" type="radio" v-model="selling_store_filter" value="STARBUCKS"/>
+<label for="beverage_STARBUCKS"><span>STARBUCKS COFFEE</span></label>
+</div>
+<div class="alle-c-form-radio is-mark is-mark-star" v-if="grouping.RESERVE.beverage.hasData">
+<input @click="click_store_kbn2('RESERVE')" id="beverage_RESERVE" name="ja_select-type-sub2" type="radio" v-model="selling_store_filter" value="RESERVE"/>
+<label for="beverage_RESERVE"><span>STARBUCKS RESERVE<small>®</small> BAR / <br/>STARBUCKS RESERVE<small>®</small> STORE</span></label>
+</div>
+<div class="alle-c-form-radio is-mark is-mark-star" v-if="grouping.ROASTERY.beverage.hasData">
+<input @click="click_store_kbn2('ROASTERY')" id="beverage_ROASTERY" name="ja_select-type-sub2" type="radio" v-model="selling_store_filter" value="ROASTERY"/>
+<label for="beverage_ROASTERY"><span>STARBUCKS RESERVE<small>®</small> ROASTERY TOKYO</span></label>
+</div>
+<div class="alle-c-form-radio is-mark is-mark-online" v-if="grouping.ONLINE_STORE.beverage.hasData">&gt;
+                  <input @click="click_store_kbn2('ONLINE_STORE')" id="beverage_ONLINE_STORE" name="ja_select-type-sub2" type="radio" v-model="selling_store_filter" value="ONLINE_STORE"/>
+<label for="beverage_ONLINE_STORE"><span>Online Store</span></label>
+</div>
+</div>
+</div>
+<div class="js-item" v-if="beverage_or_food_filter === 'food'">
+<div class="alle-c-form-radio-list u-mt20 u-mt10-sp">
+<div class="alle-c-form-radio is-mark is-mark-logo" v-if="grouping.STARBUCKS.food.hasData">
+<input @click="click_store_kbn2('STARBUCKS')" id="food_STARBUCKS" name="ja_select-type-sub3" type="radio" v-model="selling_store_filter" value="STARBUCKS"/>
+<label for="food_STARBUCKS"><span>STARBUCKS COFFEE</span></label>
+</div>
+<div class="alle-c-form-radio is-mark is-mark-star" v-if="grouping.RESERVE.food.hasData">
+<input @click="click_store_kbn2('RESERVE')" id="food_RESERVE" name="ja_select-type-sub3" type="radio" v-model="selling_store_filter" value="RESERVE"/>
+<label for="food_RESERVE"><span>STARBUCKS RESERVE<small>®</small> BAR / <br/>STARBUCKS RESERVE<small>®</small> STORE</span></label>
+</div>
+<div class="alle-c-form-radio is-mark is-mark-star" v-if="grouping.ROASTERY.food.hasData">
+<input @click="click_store_kbn2('ROASTERY')" id="food_ROASTERY" name="ja_select-type-sub3" type="radio" v-model="selling_store_filter" value="ROASTERY"/>
+<label for="food_ROASTERY"><span>STARBUCKS RESERVE<small>®</small> ROASTERY TOKYO</span></label>
+</div>
+<div class="alle-c-form-radio is-mark is-mark-online" v-if="grouping.ONLINE_STORE.food.hasData">
+<input @click="click_store_kbn2('ONLINE_STORE')" id="food_ONLINE_STORE" name="ja_select-type-sub3" type="radio" v-model="selling_store_filter" value="ONLINE_STORE"/>
+<label for="food_ONLINE_STORE"><span>Online Store</span></label>
+</div>
+</div>
+<p class="u-ta-r u-ta-r-sp u-hide-page-origin">
+<a class="u-fs11-sp u-col-7" href="https://www.princi.co.jp/allergy/" target="_blank">
+<img class="external-link-icon" src="/allergy_asset/202302021425-99ce41/images/c-icon/icon_externalLink.svg"/>
+<span v-if="lang==='ja'">Princi<small>®</small>ã®æå ±ã¯ãã¡ã</span>
+<span v-else="">infomation about Princi<small>®</small></span>
+</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="alle-l-outer u-mt30">
+<div class="alle-l-outer-sp u-mt10-sp">
+<div class="alle-l-inner alle-p-search-pagelink">
+<div class="c-form-pagelink">
+<select class="js-form-pagelink">
+<template v-for="(selling_store, selling_store_nm) in grouping">
+<template v-for="(store_kbns, beverage_or_food) in selling_store" v-if="
+        store_kbns.hasData &amp;&amp;
+        (beverage_or_food_filter === 'all' ||
+        (beverage_or_food_filter === beverage_or_food &amp;&amp; selling_store_filter === selling_store_nm))">
+<template v-for="(store_kbn, store_kbn_key) in store_kbns" v-if="store_kbn.hasData">
+<option :value="beverage_or_food+'_'+selling_store_nm+'_'+store_kbn_key" class="u-fw-bold u-fw-bold-sp" v-html="getHeadline(beverage_or_food) + ' / ' + store_kbn.pulldown_name"></option>
+<option :value="beverage_or_food+'_'+selling_store_nm+'_'+store_kbn_key+'_'+category_key" v-for="(category,category_key) in store_kbn.categories" v-html="'    '+category['category_name_'+lang]" v-if="category.hasData"></option>
+</template>
+</template>
+</template>
+</select>
+</div>
+</div>
+</div></div>
+<!-- table start -->
+<template v-for="(selling_store, selling_store_nm) in grouping">
+<template v-for="(store_kbns, beverage_or_food) in selling_store" v-if="
+  store_kbns.hasData &amp;&amp;
+  (beverage_or_food_filter === 'all' ||
+  (beverage_or_food_filter === beverage_or_food &amp;&amp; selling_store_filter === selling_store_nm))">
+<div :class="beverage_or_food+'-'+selling_store_nm" class="">
+<div class="alle-l-outer u-mt40">
+<div class="alle-l-outer-sp u-mt40-sp">
+<div class="alle-l-inner">
+<!--         <h3
+          class="u-fs32 u-fs20-sp u-col-5"
+          v-html="changeSmallR(STORE_TYPE_VALUE[beverage_or_food][selling_store_nm][lang])"
+          :id="beverage_or_food+'_'+selling_store_nm+'_regular'"
+          ></h3> -->
+</div>
+</div>
+</div><!-- alle-l-outer u-mt40 -->
+<template v-for="(store_kbn, store_kbn_key) in store_kbns" v-if="store_kbn.hasData">
+<div :class="store_kbn['selling_store_name_'+lang] === 'regular' ? '' : 'u-mt40'" class="alle-l-outer">
+<div class="alle-l-outer-sp u-mt40-sp">
+<div class="alle-l-inner alle-l-inner-heading">
+<h4 :id="beverage_or_food+'_'+selling_store_nm+'_'+store_kbn_key" class="u-fs20 u-fs17-sp u-mt25" v-html="getHeadline(beverage_or_food)"></h4>
+<div class="store-kbn-name" v-html="store_kbn.name">
+</div>
+<div class="last-updated">
+<div class="alle-p-text-date-cols alle-l-inner alle-last_updated u-mb25 u-mb25-sp">
+<div>
+<p class="u-fs11-sp u-col-2" v-html="'æçµæ´æ°æ¥ï¼'+to_date(store_kbn.last_updated)" v-if="lang === 'ja'"></p>
+<p class="u-fs11-sp u-col-2" v-html="'Last updated onï¼'+to_date(store_kbn.last_updated)" v-if="lang === 'en'"></p>
+</div>
+</div> </div>
+<div class="alle-c-state is-S u-mt15 u-mt15-sp" v-if="beverage_or_food === 'beverage'">
+<template v-for="(v,milk_key) in milk_types">
+<span :class="'badge-'+milk_key" class="alle-c-state-term is-S">
+<span :lang="lang" class="" v-html="v[lang]"></span>
+</span>
+</template>
+<span class="milk-sentense" style="display:none;">
+<template v-if="lang==='ja'">
+<span class="">ã§æä¾ã§ããåå</span>
+</template>
+<template v-else="">
+<span class=""></span>
+</template>
+</span>
+</div>
+<div class="alle-p-text-date-cols u-mt10 u-mt25-sp" v-if="beverage_or_food === 'beverage'">
+<div>
+<p class="alle-c-hover u-fs13 u-col-7 js-modal-option-open">
+<template v-if="lang==='ja'">
+<b>ãã«ã¯ã®ç¨®é¡ãé¸æ</b>
+</template>
+<template v-else="">
+<b>Select milk type</b>
+</template>
+</p>
+</div>
+</div> </div>
+</div>
+</div><!-- alle-l-outer u-mt40 -->
+<div class="alle-l-outer u-mt20 u-mt20-sp">
+<div class="alle-l-inner-pc">
+<div class="alle-c-spec-stage js-table-scroll">
+<div class="alle-c-spec-origin js-table-origin">
+<table class="alle-c-spec is-nutrient">
+<tbody>
+<tr>
+<th class="is-size1 js-table-fix-wide1"></th>
+<th class="is-size2 js-table-fix-wide2"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'calory')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'protein')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'lipid')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'carbohydrate')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'salt_eq')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'dietary_fiber')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'sugar')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'sodium')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'potassium')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'trans_fatty_acids')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'saturated_fatty_acids')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'alcohol')"></th>
+<th class="is-size3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'caffeine')"></th>
+</tr>
+<tr>
+<th class="is-lefttop js-table-fix-height" colspan="2"><div>
+<span v-if="lang==='ja'">ååå</span>
+<span v-else="">Products</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-1" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'calory')"><div>
+<span>
+<b v-if="lang==='ja'">ã¨ãã«ã®ã¼</b>
+<b v-else="">Energy</b>
+</span>
+<span>(kcal)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-2" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'protein')"><div>
+<span>
+<b v-if="lang==='ja'">ã¿ã³ãã¯è³ª</b>
+<b v-else="">Protein</b>
+</span>
+<span>(g)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-3" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'lipid')"><div>
+<span>
+<b v-if="lang==='ja'">èè³ª</b>
+<b v-else="">Fat</b>
+</span>
+<span>(g)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-4" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'carbohydrate')"><div>
+<span>
+<b v-if="lang==='ja'">ç­æ°´åç©</b>
+<b v-else="">Carbohydrates</b>
+</span>
+<span>(g)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-5" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'salt_eq')"><div>
+<span>
+<b v-if="lang==='ja'">é£å¡©ç¸å½é</b>
+<b v-else="">Salt Equivalent</b>
+</span>
+<span>(g)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-6" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'dietary_fiber')"><div>
+<span>
+<b v-if="lang==='ja'">é£ç©ç¹ç¶­</b>
+<b v-else="">Dietary Fiber</b>
+</span>
+<span>(g)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-7" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'sugar')"><div>
+<span>
+<b v-if="lang==='ja'">ç³è³ª</b>
+<b v-else="">Sugar</b>
+</span>
+<span>(g)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-8" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'sodium')"><div>
+<span>
+<b v-if="lang==='ja'">ãããªã¦ã </b>
+<b v-else="">Sodium</b>
+</span>
+<span>(mg)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-9" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'potassium')"><div>
+<span>
+<b v-if="lang==='ja'">ã«ãªã¦ã </b>
+<b v-else="">Potassium</b>
+</span>
+<span>(mg)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-10" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'trans_fatty_acids')"><div>
+<span>
+<b v-if="lang==='ja'">ãã©ã³ã¹èèªé¸</b>
+<b v-else="">Trans Fatty Acid</b>
+</span>
+<span>(g)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-11" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'saturated_fatty_acids')"><div>
+<span>
+<b v-if="lang==='ja'">é£½åèèªé¸</b>
+<b v-else="">Saturated Fatty Acid</b>
+</span>
+<span>(g)</span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-12" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'alcohol')"><div>
+<span v-if="lang==='ja'">
+<b>ãéã®ä½¿ç¨</b><a class="tooltip-info-link tooltip-info-link-alcohol-ja"><span class="tooltip-info-link-icon"></span></a>
+</span>
+<span v-if="lang==='en'">
+<b>Alchol</b><a class="tooltip-info-link tooltip-info-link-alcohol-en"><span class="tooltip-info-link-icon"></span></a>
+</span>
+<span></span>
+</div></th>
+<th class="is-nutrition js-head-th is-val-13" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, 'caffeine')"><div>
+<span>
+<b v-if="lang==='ja'">ã«ãã§ã¤ã³</b>
+<b v-else="">Caffeine</b>
+</span>
+<span>(mg)</span>
+</div></th>
+</tr>
+<template v-for="(category,category_key) in store_kbn.categories">
+<tr class="tr-category" v-if="category.hasData">
+<th :colspan="2 + getShownItemNum(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA)" :id="beverage_or_food+'_'+selling_store_nm+'_'+store_kbn_key+'_'+category_key" class="is-group">
+<h4 v-html="changeSmallR(category['category_name_en']).replace('beverage', beverage_or_food)" v-if="lang==='en'"></h4>
+<h4 v-else="" v-html="changeSmallR(category['category_name_ja'])"></h4>
+</th>
+</tr>
+<template v-for="(product,i) in category.menu_groups">
+<template v-for="(nutrition_by_size,size) in product.nutrition_by_milk" v-if="size === 'TALL' || (!product.nutrition_by_milk.TALL &amp;&amp; Object.keys(product.nutrition_by_milk)[0] === size)">
+<tr :class="i%2===1 ? 'is-row-gray' : ''" class="tr-menu" v-if="product.nutrition_by_milk[size].length &gt; 1 &amp;&amp;
+                  (current_milks.length === 0 ||
+                  product.nutrition_by_milk[size].find(e =&gt; current_milks.indexOf(e._milk_type) !== -1))">
+<th class="is-product" colspan="2">
+<a :data-link="product.link" :data-url_jan_code="product.url_jan_code" class="link-to-detail">
+<span v-html="product['product_name_'+[lang]]"></span>
+</a>
+</th>
+<th :colspan="getShownItemNum(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA)" class="is-product2"></th>
+</tr>
+<template v-for="nutrition_by_milk in nutrition_by_size">
+<tr :class="i%2===1 ? nutrition_by_milk._milk_type + ' is-row-gray' : nutrition_by_milk._milk_type" class="tr-menu tr-milk" v-if="product.nutrition_by_milk[size].length &gt; 1
+                    &amp;&amp; (current_milks.length === 0 || current_milks.indexOf(nutrition_by_milk._milk_type) !== -1)">
+<th class="is-blank"></th>
+<th class="is-ingre">
+<span v-html="milk_types[nutrition_by_milk._milk_type][lang]"></span>
+</th>
+<td :class="'is-val-'+n" v-for="n in 13" v-html="numFormat(nutrition_by_milk[nutritions[n-1].key], nutritions[n-1].key, nutrition_by_milk['sodium'])" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, nutritions[n-1].key)">
+</td>
+</tr>
+<template v-else-if="product.nutrition_by_milk[size].length &gt; 1">
+<!-- éè¡¨ç¤ºãã«ã¯ã¿ã¤ã -->
+</template>
+<tr :class="i%2===1 ? 'is-row-gray is-row-a' : ''" class="tr-menu" v-else="">
+<th class="is-product" colspan="2">
+<a :data-link="product.link" :data-url_jan_code="product.url_jan_code" class="link-to-detail">
+<span v-html="product['product_name_'+[lang]]"></span>
+</a>
+</th>
+<td :class="'is-val-'+n" v-for="n in 13" v-html="numFormat(nutrition_by_milk[nutritions[n-1].key], nutritions[n-1].key, nutrition_by_milk['sodium'])" v-if="isShownItem(selling_store_nm, beverage_or_food, store_kbn.isOnlyEA, nutritions[n-1].key)">
+</td>
+</tr>
+</template>
+</template>
+</template>
+</template>
+</tbody>
+</table>
+</div>
+<div class="alle-c-spec-left js-table-left"></div>
+<div class="alle-c-spec-top js-table-top"></div>
+<div class="alle-c-spec-left-top js-table-left-top">
+<div>
+<span v-if="lang==='ja'">ååå</span>
+<span v-else="">Products</span>
+</div>
+</div>
+</div>
+</div>
+</div><!-- alle-l-outer u-mt20 u-mt20-sp -->
+</template>
+</div>
+</template>
+</template>
+<!-- table end -->
+<div class="alle-l-footer2 u-mt40 u-mt40-sp">
+<div class="_cols js-languages" lang="ja">
+<div>
+<h3 class="_name">ã¢ã¬ã«ã²ã³ã»<br class="u-sp"/>æ é¤æåã»<br class="u-sp"/>åæåç£å°æå ±</h3>
+</div>
+<div>
+<ul class="_link">
+<li><a href="/search/"><span>ååããèª¿ã¹ã</span></a></li>
+<li class="forSp">
+<ul>
+            ä¸è¦§è¡¨ã§èª¿ã¹ã
+            <li><a href="/allergy/allergen/"><span>ã¢ã¬ã«ã²ã³æå ±</span></a></li>
+<li><a href="/allergy/nutrient/"><span>æ é¤æåæå ±</span></a></li>
+<li><a href="/allergy/origin/"><span>åæåç£å°æå ±</span></a></li>
+</ul>
+</li>
+<li><a href="/allergy/#alle"><span>ã¢ã¬ã«ã²ã³ããèª¿ã¹ã</span></a></li>
+</ul>
+<ul class="_link forNotSp">
+<li>
+          ä¸è¦§è¡¨ã§èª¿ã¹ã
+          <ul>
+<li><a href="/allergy/allergen/"><span>ã¢ã¬ã«ã²ã³æå ±</span></a></li>
+<li><a href="/allergy/nutrient/"><span>æ é¤æåæå ±</span></a></li>
+<li><a href="/allergy/origin/"><span>åæåç£å°æå ±</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="_cols js-languages" lang="en">
+<div>
+<h3 class="_name">Allergen, <br class="u-sp"/>Nutrition, <br class="u-sp"/>Countries of Origin Information</h3>
+</div>
+<div>
+<ul class="_link">
+<li><a href="/search/?lang=en"><span>Search by product</span></a></li>
+<li class="forSp">
+<ul>
+            Search from table
+            <li><a href="/allergy/allergen/?lang=en"><span>Allergen information</span></a></li>
+<li><a href="/allergy/nutrient/?lang=en"><span>Nutritional information</span></a></li>
+<li><a href="/allergy/origin/?lang=en"><span>Countries of origin information</span></a></li>
+</ul>
+</li>
+<li><a href="/allergy/?lang=en#alle"><span>Search by allergen</span></a></li>
+</ul>
+<ul class="_link forNotSp">
+<li>
+          Search from table
+          <ul>
+<li><a href="/allergy/allergen/?lang=en"><span>Allergen information</span></a></li>
+<li><a href="/allergy/nutrient/?lang=en"><span>Nutritional information</span></a></li>
+<li><a href="/allergy/origin/?lang=en"><span>Countries of origin information</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div></div>
+<div class="alle-l-modal is-normal js-modal-option">
+<div class="_modal-bg js-close"></div>
+<div class="_modal-box-wap">
+<div class="_modal-box">
+<div class="_modal-btn-close js-close"><span></span><span></span></div>
+<div class="_modal-head">
+<div class="js-languages" lang="ja">
+<span>ãã«ã¯ã®ç¨®é¡ãé¸æ</span>
+</div>
+<div class="js-languages" lang="en">
+<span>Select milk type</span>
+</div>
+</div>
+<div class="_modal-body">
+<div class="_modal-inner">
+<div>
+<div class="alle-c-form-check">
+<input checked="" class="milk-type" id="_check_-milk-milk" name="milk-type" type="checkbox" value="milk"/>
+<label for="_check_-milk-milk">
+<span class="js-languages" lang="ja">ãã«ã¯</span>
+<span class="js-languages" lang="en">Milk</span>
+</label>
+</div>
+<div class="alle-c-form-check">
+<input checked="" class="milk-type" id="_check_-milk-low_fat" name="milk-type" type="checkbox" value="low_fat"/>
+<label for="_check_-milk-low_fat">
+<span class="js-languages" lang="ja">ä½èèªã¿ã¤ã</span>
+<span class="js-languages" lang="en">Low-fat milk</span>
+</label>
+</div>
+<div class="alle-c-form-check">
+<input checked="" class="milk-type" id="_check_-milk-non_fat" name="milk-type" type="checkbox" value="non_fat"/>
+<label for="_check_-milk-non_fat">
+<span class="js-languages" lang="ja">ç¡èèªä¹³</span>
+<span class="js-languages" lang="en">Non-fat milk</span>
+</label>
+</div>
+<div class="alle-c-form-check">
+<input checked="" class="milk-type" id="_check_-milk-soy" name="milk-type" type="checkbox" value="soy"/>
+<label for="_check_-milk-soy">
+<span class="js-languages" lang="ja">è±ä¹³ï¼èª¿è£½è±ä¹³ï¼</span>
+<span class="js-languages" lang="en">Soy milk (Adjusted soy milk)</span>
+</label>
+</div>
+<div class="alle-c-form-check">
+<input checked="" class="milk-type" id="_check_-milk-almond" name="milk-type" type="checkbox" value="almond"/>
+<label for="_check_-milk-almond">
+<span class="js-languages" lang="ja">ã¢ã¼ã¢ã³ããã«ã¯</span>
+<span class="js-languages" lang="en">Almond milk</span>
+</label>
+</div>
+<div class="alle-c-form-check">
+<input checked="" class="milk-type" id="_check_-milk-oat" name="milk-type" type="checkbox" value="oat"/>
+<label for="_check_-milk-oat">
+<span class="js-languages" lang="ja">ãªã¼ããã«ã¯</span>
+<span class="js-languages" lang="en">Oat milk</span>
+</label>
+</div>
+<div class="alle-c-form-check">
+<input checked="" class="milk-type" id="_check_-milk-breve" name="milk-type" type="checkbox" value="breve"/>
+<label for="_check_-milk-breve">
+<span class="js-languages" lang="ja">ãã¬ã¹</span>
+<span class="js-languages" lang="en">Breve</span>
+</label>
+</div>
+<div class="alle-c-btns is-center is-center-sp u-mt20 u-mt20-sp">
+<button @click="filterMilks()" class="alle-c-btn is-free is-M js-close">
+<span class="js-languages" lang="ja">å¤æ´ãã</span>
+<span class="js-languages" lang="en">Change</span>
+</button>
+</div>
+<div class="u-mt20 u-mt20-sp">
+<p class="js-languages" lang="ja">é¸æããªãå ´åãå¨ã¦ã®ãã«ã¯ãè¡¨ç¤ºããã¾ã</p>
+<p class="js-languages" lang="en">If you don't select any milk, information on all milk options is displayed.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div><!-- /.mainContents -->
+<footer class="footerWrap web_view_none">
+<nav aria-label="Global footer" class="footerNav">
+<div class="footerNav__wrapper">
+<div class="footerNav__inner">
+<p class="footerNav__head en">Company</p>
+<ul class="footerNav__list">
+<li><a href="//www.starbucks.co.jp/company/?nid=ft">ä¼ç¤¾æ¡å</a></li>
+<li><a href="//www.starbucks.co.jp/company/summary/?nid=ft">ä¼ç¤¾æ¦è¦</a></li>
+<li><a href="//www.starbucks.co.jp/company/history/?nid=ft">æ²¿é©</a></li>
+<li><a class="en" href="//www.starbucks.co.jp/company/mission.html?nid=ft">Our Mission and Values</a></li>
+</ul>
+</div>
+<div class="footerNav__inner">
+<p class="footerNav__head en">Recruiting</p>
+<ul class="footerNav__list">
+<li><a href="//www.starbucks.co.jp/recruit/?nid=ft">æ¡ç¨TOP</a></li>
+<li><a href="//www.starbucks.co.jp/recruit/message/?nid=ft">ã¹ã¿ã¼ããã¯ã¹ã§åãã¨ã¯</a></li>
+<li><a href="//www.starbucks.co.jp/recruit/vision/?nid=ft">ã¹ã¿ã¼ããã¯ã¹ãªæªæ¥</a></li>
+<li><a href="//www.starbucks.co.jp/recruit/newgraduate/?nid=ft">æ°åæ¡ç¨</a></li>
+<li><a href="//www.starbucks.co.jp/recruit/store_career/?nid=ft">åºèä¸­éæ¡ç¨</a></li>
+<li><a href="//www.starbucks.co.jp/recruit/sc_career/?nid=ft">SCä¸­éæ¡ç¨</a></li>
+<li><a href="//starbucks-job.jp/jobfind-pc/?nid=ft" target="_blank">ã¢ã«ãã¤ãæ¡ç¨</a></li>
+</ul>
+</div>
+<div class="footerNav__inner">
+<p class="footerNav__head en">Social Impact</p>
+<ul class="footerNav__list">
+<li><a class="en" href="//www.starbucks.co.jp/socialimpact/?nid=ft">Social Impact</a></li>
+<li><a class="en" href="//stories.starbucks.co.jp/stories/people/?nid=ft" target="_blank">People</a></li>
+<li><a class="en" href="//stories.starbucks.co.jp/ja/stories/planet/?nid=ft" target="_blank">Planet</a></li>
+<li><a class="en" href="//stories.starbucks.co.jp/ja/stories/community/?nid=ft" target="_blank">Community &amp; Connection</a></li>
+<li><a class="en" href="//stories.starbucks.co.jp/ja/stories/customer-experience/?nid=ft" target="_blank">Customer Experience</a></li>
+<li><a class="en" href="//stories.starbucks.co.jp/ja/press/presscenter/?nid=ft" target="_blank">Press Center</a></li>
+</ul>
+</div>
+</div>
+<div class="__bottom">
+<ul class="footerNav__secondaryLinks">
+<li><a href="//www.starbucks.co.jp/faq/?nid=ft">ãããããè³ªåã»ãåãåãã</a></li>
+<li><a href="//www.starbucks.co.jp/about_us/policy/terms_of_use.html?nid=ft">ä½¿ç¨æ¡ä»¶</a></li>
+<li><a href="//www.starbucks.co.jp/about_us/policy/?nid=ft">ããªã·ã¼ã»ç´æ¬¾ã»è¦ç´ä¸è¦§</a></li>
+<li><a href="//www.starbucks.co.jp/sitemap.html?nid=ft">ãµã¤ãããã</a></li>
+</ul>
+<ul class="footerNav__socialLinks">
+<li><a href="//twitter.com/Starbucks_J/" target="_blank"><img alt="twitter" src="//d3vgbguy0yofad.cloudfront.net/common/images/footer/icon-twitter.svg"/></a></li>
+<li><a href="//www.instagram.com/starbucks_j/" target="_blank"><img alt="instagram" src="//d3vgbguy0yofad.cloudfront.net/common/images/footer/icon-instagram.svg"/></a></li>
+<li><a href="//www.facebook.com/StarbucksJapan" target="_blank"><img alt="facebook" src="//d3vgbguy0yofad.cloudfront.net/common/images/footer/icon-facebook.svg"/></a></li>
+<li><a href="//page.line.me/601xwgmk" target="_blank"><img alt="line" src="//d3vgbguy0yofad.cloudfront.net/common/images/footer/icon-line.svg"/></a></li>
+</ul>
+</div>
+<p class="footerNav__copyright en">© <span class="year"></span> Starbucks Coffee Company. All rights reserved.</p>
+<script>
+      const now = new Date()
+      const year = now.getFullYear()
+      document.querySelector('.footerWrap .year').textContent = year
+    </script>
+</nav>
+</footer><script>
+let vm = new Vue({
+  el: '#allergen',
+  data: {
+    nutritions: [
+      {key: 'calory',               round: 0},
+      {key: 'protein',              round: 1},
+      {key: 'lipid',                round: 1},
+      {key: 'carbohydrate',         round: 1},
+      {key: 'salt_eq',              round: 1},
+      {key: 'dietary_fiber',        round: 1},
+      {key: 'sugar',                round: 1},
+      {key: 'sodium',               round: 0},
+      {key: 'potassium',            round: 0},
+      {key: 'trans_fatty_acids',     round: 1},
+      {key: 'saturated_fatty_acids', round: 1},
+      {key: 'alcohol',              round: 1},
+      {key: 'caffeine',             round: 0},
+    ],
+    beverage_food_txt:{
+      beverage: { ja: 'ããã¬ãã¸', en: 'Beverage' },
+      food: { ja: 'ãã¼ã', en: 'Food' },
+    },
+    selling_store_nm:{
+      STARBUCKS: 'STARBUCKS COFFEE',
+      RESERVE: 'STARBUCKS RESERVE&reg; BAR / STARBUCKS RESERVE&reg; STORE',
+      ROASTERY: 'STARBUCKS RESERVE&reg; ROASTERY TOKYO',
+      ONLINE_STORE: 'Online Store',
+    },
+    currentAllergenList: [],
+    params:{},
+    paramType: '',
+    productAssetPrefix: '',
+    apiOffset: 0,
+    allDataUrl: window.location.origin + '/allergy/json/nutritions.json' + window.location.search,
+    hiddenDataUrl: window.location.origin + '/allergy/json/hidden_jan_list.json' + window.location.search,
+    lastSearchUrl: false,
+    storeInfo: {name:{}},
+    grouping: {},
+    hiddenJanList: [],
+    beverage_or_food_filter: 'all',
+    selling_store_filter: 'all',
+    error: null,
+    lang: 'ja',
+    milk_types: {"no_change":{"ja":"\u30df\u30eb\u30af\u5909\u66f4\u306a\u3057","en":"No change of milk"},"default":{"ja":"\u30df\u30eb\u30af","en":"Milk"},"milk":{"ja":"\u30df\u30eb\u30af","en":"Milk"},"low_fat":{"ja":"\u4f4e\u8102\u80aa\u30bf\u30a4\u30d7","en":"Low-fat milk"},"non_fat":{"ja":"\u7121\u8102\u80aa\u4e73","en":"Non-fat milk"},"soy":{"ja":"\u8c46\u4e73\uff08\u8abf\u88fd\u8c46\u4e73\uff09","en":"Soy milk (Adjusted soy milk)"},"almond":{"ja":"\u30a2\u30fc\u30e2\u30f3\u30c9\u30df\u30eb\u30af","en":"Almond milk"},"oat":{"ja":"\u30aa\u30fc\u30c4\u30df\u30eb\u30af","en":"Oat milk"},"breve":{"ja":"\u30d6\u30ec\u3079","en":"Breve"}},
+    current_milks: [],
+  },
+  watch: {
+    hiddenJanList : function (hiddenJanListNew, hiddenJanListOld) {
+      this.setResult()
+    }
+  },
+  created: function() {
+    this.setParsedParams()
+    this.setLang()
+    this.showAllergens()
+  },
+  mounted: function() {
+    if(document.cookie.match(/beverage_or_food_filter=(\w+)/)){
+      let b_or_f = document.cookie.match(/beverage_or_food_filter=(\w+)/)
+      b_or_f = b_or_f[1]
+      if(['all','beverage','food'].indexOf(b_or_f) !== -1){
+        this.beverage_or_food_filter = b_or_f
+        let store = document.cookie.match(/selling_store_filter=(\w+)/)
+        store = store[1]
+        if(store){
+          this.selling_store_filter = store
+        }
+      }
+    }
+
+    if(location.search.substr(1).split("&").indexOf("emode=on") !== -1) {
+      $(".alle-c-return a").each(function() {
+        const topUrlBefore = $(this).attr("href");
+        $(this).attr("href", topUrlBefore + "#list_anchor");
+      });
+    }
+  },
+  updated: function(){
+    this.setResult()
+  },
+  methods: {
+    changeLang: function(lang){
+      this.lang=lang
+    },
+
+    click_store_kbn: function(kbn){
+      this.beverage_or_food_filter = kbn
+      this.selling_store_filter = 'STARBUCKS'
+      document.cookie = 'beverage_or_food_filter='+kbn+';max-age=86400'
+      document.cookie = 'selling_store_filter=STARBUCKS;max-age=86400'
+    },
+
+    click_store_kbn2: function(kbn){
+      this.selling_store_filter = kbn
+      document.cookie = 'selling_store_filter='+kbn+';max-age=86400'
+    },
+
+    changeSmallR: function(str){
+      if(!str) return ''
+      return str.replace(/&reg;/g, '<small>&reg;</small>')
+                .replace(/Â®[\uFE00-\uFE0F]?/g, '<small>&reg;</small>')//iOSç°ä½å­ã»ã¬ã¯ã¿å¯¾ç­
+    },
+
+    changeR: function(str){
+      if(!str) return ''
+      return str.replace(/&reg;/g, 'Â®')
+                .replace(/Â®[\uFE00-\uFE0F]?/g, 'Â®')//iOSç°ä½å­ã»ã¬ã¯ã¿å¯¾ç­
+                .replace(/&trade;/g, 'â¢')
+                .replace(/&amp;/g, '&')
+    },
+
+    getShownItemNum: function(selling_store_nm, beverage_or_food, isOnlyEA){
+      if(isOnlyEA){
+        return 5
+      }
+      if(beverage_or_food === 'food'){
+        return 12
+      }
+      else if(beverage_or_food === 'beverage'){
+        return 12
+      }
+    },
+
+    isShownItem: function(selling_store_nm, beverage_or_food, isOnlyEA, nutrition){
+      if(typeof nutrition !== 'string'){
+        return false
+      }
+
+      if(isOnlyEA){
+        if(['calory', 'protein', 'lipid', 'carbohydrate', 'salt_eq'].indexOf(nutrition) !== -1){
+          return true
+        }
+        return false
+      }
+      if(beverage_or_food === 'food'){
+        if(['caffeine'].indexOf(nutrition) !== -1){
+          return false
+        }
+        return true
+      }
+      else if(beverage_or_food === 'beverage'){
+        if(['alcohol'].indexOf(nutrition) !== -1){
+          return false
+        }
+        return true
+      }
+
+      return false
+    },
+
+    numFormat: function(input, nutrientKey, sodium){
+      const options ={
+        sodium: sodium,
+        language: this.lang,
+      }
+
+      if(nutrientKey === 'alcohol' && input > 0){
+        options.addUnit = '%'
+
+        let val = PRODUCT_NUTRIENT_DISPLAY.format(input, nutrientKey, options)
+        if(this.lang === 'ja') return 'ãã (ã¢ã«ã³ã¼ã«å<br>'+val+')'
+        return 'Contained (alcohol<br>'+val+')'
+      }
+
+      return PRODUCT_NUTRIENT_DISPLAY.format(input, nutrientKey, options)
+    },
+
+    showAllergens: function(){
+      //ä½ããã®ã¨ã©ã¼ãæ¢ã«åºã¦ããå ´åã¯ååãåå¾ããªã
+      if(this.error) return
+
+      const _this = this
+
+      axios.get(this.hiddenDataUrl)
+      .then(function(response) {
+        if (typeof response.data === 'object' && response.data.length > 0) {
+          _this.hiddenJanList = response.data
+        }
+      })
+      .catch(function(error) {})
+
+      axios.get(this.allDataUrl)
+      .then(function(response) {
+        _this.grouping = response.data
+        _this.setResult()
+      })
+      .catch(function(error) {
+          console.error(error);
+          console.error('ã¨ãã«ã®ã¼æå ±ãåå¾ã§ãã¾ããã§ããã')
+      });
+    },
+
+    filterMilks: function(){
+      const _this = this
+      const current_milks = ['no_change']
+
+      //ãã§ãã¯ãæ°ãã
+      let milk_count = 0
+      $('.milk-type').each(function(){
+        milk_count += $(this).prop('checked')
+      })
+
+      //å¨é¸æorå¨é¸æãªã
+      if(milk_count === 0 || milk_count === $('.milk-type').length){
+        // å¨ãã«ã¯
+        $('.milk-type').each(function(){
+          const milk_type = $(this).val()
+          const milk_check = $(this).prop('checked')
+          $('.badge-'+milk_type).show()
+          current_milks.push(milk_type)
+        });
+      }
+      else{
+        $('.milk-type').each(function(){
+          const milk_type = $(this).val()
+          const milk_check = $(this).prop('checked')
+          if(milk_check) $('.badge-'+milk_type).show()
+          if(milk_check) current_milks.push(milk_type)
+        });
+      }
+
+      this.current_milks = current_milks
+      changeMilkClass()
+    },
+
+    getHeadline: function(beverage_or_food){
+      return this.beverage_food_txt[beverage_or_food][this.lang]
+    },
+
+    getHeadline2: function(store_kbn_key){
+      return this.selling_store_nm[store_kbn_key]
+    },
+
+    setParsedParams: function(){
+      const params = {}
+      let param_text = location.search.replace(/^\?/, '')
+      param_text = decodeURI(param_text)
+      param_text = this.sanitize(param_text)
+      const params_array = param_text.split('&')
+
+      //ãã©ã¡ã¼ã¿ã®é£æ³éåãã¤ãã
+      params_array.forEach(function(v){
+        const param = v.split("=")
+        params[param[0]] = param[1]
+      })
+
+      this.params =  params
+    },
+
+    sanitize: function(str){
+      str = String(str);
+      return str.replace(/[\\\<\>\"\'\.\/\(\)\{\}\;\?\!\^\%\#\|\[\]\`\$\~\*\@\+\-\:]/g, '');
+    },
+
+    setLang: function(){
+      if(this.params.lang && this.params.lang === 'en'){
+        this.lang = 'en'
+      }
+      else{
+        this.lang = 'ja'
+      }
+    },
+
+    to_date(str_date){
+      if (!str_date || !str_date.match(/\d{8}/)) return ''
+      const year = str_date.substr(0,4)
+      const month = str_date.substr(4,2)
+      const day = str_date.substr(6,2)
+      const MONTH_EN_LIST = ['Jan.','Feb.','Mar.','Apr.','May','June','July','Aug.','Sept.','Oct.','Nov.','Dec.']
+      if(this.lang === 'ja') return year + '/' + month + '/' + day
+      if(this.lang === 'en') return MONTH_EN_LIST[parseInt(month)-1] + ' ' + day + ', ' + year
+    },
+
+    initLinkToDetail(){
+      $(document).on('click', '.link-to-detail', function(e){
+        const jan_code = $(this).data('url_jan_code')
+        const url = '//' + 'menu.starbucks.co.jp' + '/' + jan_code
+        const query = '?nutrient=on'
+        const menu_link = url + query
+        const item_link = $(this).data('link') + query
+        linkToDetail(jan_code, menu_link, item_link)
+      })
+    },
+
+    setResult: function(){
+      const _this = this
+      const grouping = this.grouping
+      Object.keys(grouping).forEach(function(selling_store_nm){
+        Object.keys(grouping[selling_store_nm]).forEach(function(beverage_or_food){
+          let hasDataInSellingStore = false
+
+          Object.keys(grouping[selling_store_nm][beverage_or_food]).forEach(function(store_kbn){
+            let hasData = false
+            let isOnlyEA = true // trueã¯äºå¤§æ é¤ç´ ã®ã¿
+
+            if(!grouping[selling_store_nm][beverage_or_food][store_kbn].categories){
+              return
+            }
+
+            const store_kbn_val = grouping[selling_store_nm][beverage_or_food][store_kbn]
+
+            if(selling_store_nm === 'RESERVE'){
+              const heading = store_kbn_val['selling_store_name_'+_this.lang]
+              store_kbn_val.name          = _this.changeSmallR(heading)
+              store_kbn_val.pulldown_name = _this.changeR(heading)
+            }
+            else if(store_kbn_val['selling_store_name_'+_this.lang] === 'regular'){
+              const heading = _this.getHeadline2(selling_store_nm)
+              store_kbn_val.name          = _this.changeSmallR(heading)
+              store_kbn_val.pulldown_name = _this.changeR(heading)
+            }
+            else{
+              const heading = _this.getHeadline2(selling_store_nm)+' ('+store_kbn_val['selling_store_name_'+_this.lang]+')'
+              store_kbn_val.name          = _this.changeSmallR(heading)
+              store_kbn_val.pulldown_name = _this.changeR(heading)
+            }
+
+            Object.keys(grouping[selling_store_nm][beverage_or_food][store_kbn].categories).forEach(function(category){
+              if(!grouping[selling_store_nm][beverage_or_food][store_kbn].categories[category].menu_groups){
+                return
+              }
+
+              const products = grouping[selling_store_nm][beverage_or_food][store_kbn].categories[category].menu_groups
+
+              if (_this.hiddenJanList.length > 0) {
+                Object.keys(products).forEach(function(products_index){
+                  if (products.hasOwnProperty(products_index) && _this.hiddenJanList.includes(products[products_index].url_jan_code)) {
+                    products.splice(products_index, 1)
+                  }
+                })
+              }
+
+              if(products.length > 0){
+                hasData = true
+                hasDataInSellingStore = true
+                grouping[selling_store_nm][beverage_or_food][store_kbn].categories[category].hasData = true
+                if(!products[0].is_only_ea) isOnlyEA = false
+              }
+            })
+            grouping[selling_store_nm][beverage_or_food][store_kbn].hasData = hasData
+            grouping[selling_store_nm][beverage_or_food][store_kbn].isOnlyEA = isOnlyEA
+          })
+          grouping[selling_store_nm][beverage_or_food].hasData = hasDataInSellingStore
+        })
+      })
+      this.grouping = grouping
+
+      filterMilks()
+      initModalOption()
+      initFormPagelink()
+      initPageLink()
+      initTable()
+      this.initLinkToDetail()
+    },
+  },
+})
+// tool tip for web list (allergen) page
+function initTooltipInWebList() {
+  if (typeof tippy === 'undefined') {
+      return;
+  }
+  tippy('.tooltip-info-link-alcohol-ja:not(.tippy-enabled)', {
+      content: '<div class="tooltip-info-popover">åææã®ä¸é¨ã«éé¡ãä½¿ç¨ãã¦ããå ´åã«ããéã®ä½¿ç¨ãããã¨ãã1é£åã«ãããã¢ã«ã³ã¼ã«åã®æ¨æºåæå¤ãä½µè¨ãã¦ããã¾ãã</div>',
+      theme: 'light-border',
+      trigger: 'click',
+      allowHTML: true,
+      maxWidth: 250,
+      zIndex: 1000000,
+      onCreate(instance) {
+        instance.reference.classList.add('tippy-enabled')
+      }
+    }
+  )
+  tippy('.tooltip-info-link-alcohol-en:not(.tippy-enabled)', {
+      content: '<div class="tooltip-info-popover">When alcoholic beverages are used as part of the ingredients, we indicate as "Alcoholic beverage/liquor content: Contained" with the standard analytical value of alcohol content per serving.</div>',
+      theme: 'light-border',
+      trigger: 'click',
+      allowHTML: true,
+      maxWidth: 250,
+      zIndex: 1000000,
+      onCreate(instance) {
+        instance.reference.classList.add('tippy-enabled')
+      }
+  })
+}
+window.addEventListener("load", initTooltipInWebList)
+</script>
+<script src="/allergy_asset/202302021425-99ce41/js/popper.min.js"></script>
+<script src="/allergy_asset/202302021425-99ce41/js/tippy-bundle.umd.min.js"></script>
+</body>
+</html>

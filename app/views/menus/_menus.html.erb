@@ -1,0 +1,20 @@
+  <% @menus.each do |menu| %>
+    <ul style="list-style: none;" class="d-flex menu align-items-center justify-content-center">
+        <% if fav?(menu.id) %>
+          <%= button_to toggle_fav_path, method: :post, class: "fav-button fav-position", params: { id: menu.id } do %>
+            <i class="fa-solid fa-star star-y" aria-hidden="true"></i>
+          <% end %>
+        <% else %>
+          <%= button_to toggle_fav_path, method: :post, class: "fav-button fav-position", params: { id: menu.id } do %>
+            <i class="fa-solid fa-star" aria-hidden="true"></i>
+          <% end %>
+        <% end %>
+        <% menu.items.each do |item| %>
+          <li class="menu-list text-center">
+            <div><%= item.product_name%></div>
+            <div class="min-480"><%= item.price %>円 <%= item.cal %>kcal</div>
+          </li>
+        <% end %>
+        <%= link_to "詳細", menu_path(menu.id), class: "detail" %>
+    </ul>
+  <% end %>

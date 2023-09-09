@@ -1,0 +1,50 @@
+<div class="w-75 home-center-item">
+    <div class="home-container mt-5 text-center background-white">
+        <% flash.each do |message_type, message| %>
+          <div class="alert alert-<%= message_type %>"><%= message %></div>
+        <% end %>
+        <h1 class="display-1 wf-nicomoji menu-container-title">スタバN円ガチャ</h1>
+        <div class="d-flex mt-3 justify-content-center btn-container">
+        <%= button_to "1000円", spin_gacha_path, method: :post, class: "btn btn-success gacha-btn", params: { max: "1000", menu_type: "drink food" } %>
+        <%= button_to "700円", spin_gacha_path, method: :post, class: "btn btn-success gacha-btn", params: { max: "700", menu_type: "drink" } %>
+        <%= button_to "500円", spin_gacha_path, method: :post, class: "btn btn-success gacha-btn", params: { max: "500", menu_type: "drink" } %>
+        </div>
+        <% if @menu %>
+          <div class="menu-board mx-auto w-75 d-flex justify-content-center">
+            <% if logged_in? %>
+              <% if fav?(@menu.id) %>
+                <%= button_to toggle_fav_path, method: :post, class: "fav-button fav-position", params: { id: @menu.id } do %>
+                  <i class="fa-solid fa-star star-y" aria-hidden="true"></i>
+                <% end %>
+              <% else %>
+                <%= button_to toggle_fav_path, method: :post, class: "fav-button fav-position", params: { id: @menu.id } do %>
+                  <i class="fa-solid fa-star star-w" aria-hidden="true"></i>
+                <% end %>
+              <% end %>
+            <% end %>
+            <div>
+              <ul style="list-style: none; padding-left: 0;" class="home-menu-lists">
+                <% @menu.items.each do |item| %>
+                  <li class="home-menu-list">
+                    <div class="home-menu-name menu-font"><%= item.product_name %></div>
+                    <div class="home-menu-sub menu-font"><%= item.price %>円 <%= item.cal %>kcal</div>
+                  </li>
+                <% end %>
+              </ul>
+              <ul style="list-style: none; padding-left: 0;">
+                <% @menu.toppings.each do |topping| %>
+                  <li class="home-menu-list topping">
+                    <%= "#{topping.product_name }" %>
+                  </li>
+                <% end %>
+              </ul>
+                合計: <%= @menu.price %>円 <%= @menu.cal %>kcal
+            </div>
+          </div>
+        <% end %>
+        <div class="attention-container">
+        <p class="attention">※メニューのカロリーやトッピングの組み合わせは，ドリンクがホットである場合に基づいています</p>
+        <p class="attention">※トッピングのカロリーは含まれていません</p>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,344 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS (and SCSS, if configured) file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+ 
+
+:root {
+  --main-bg-color: #036635;
+}
+
+
+body {
+background-image: url('star.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.background-white {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 30px 10px;
+}
+
+.wf-nicomoji { font-family: "Nico Moji"; }
+
+
+/*ヘッダー*/
+header {
+  height: 64px;
+  width: 100%;
+  background-color: rgba(3, 102, 53, 0.8);
+}
+
+.header-logo {
+  float: left;
+  padding-left: 20px;
+  color: white;
+  font-size: 22px;
+  line-height: 64px;
+}
+
+.header-logo a{
+  color: white;
+  font-size: 22px;
+}
+
+.header-menus {
+  float: right;
+  padding-right: 20px;
+}
+
+.header-menus li {
+  float: left;
+  line-height: 64px;
+  font-size: 13px;
+  color: white;
+  padding-left: 15px;
+}
+
+.header-menus a {
+  float: left;
+  font-size: 13px;
+  color: white;
+}
+
+@media screen and (max-width: 480px){
+  
+  .header-logo a{
+    font-size: 18px;
+  }
+  
+  .header-menus {
+    padiing-right: 10px;
+  }
+  
+  .header-menus li {
+    padding-left: 8px;
+  }
+  .header-menus a {
+    font-size: 8px;
+  }
+}
+
+.header-menus .fa {
+  padding-right: 5px;
+}
+
+.header-menus input[type="submit"] {
+  padding: 0 20px;
+  float: left;
+  line-height: 64px;
+  color: white;
+  margin: 0;
+  font-size: 13px;
+}
+
+
+
+/* login sign_up*/
+.my-div {
+  width:100%;
+  flex-flow: column;
+}
+
+.form-width{
+  width: 500px;
+}
+
+@media screen and (min-width: 481px) {
+.max-480 {
+  display: none;
+}
+}
+
+@media screen and (max-width: 1024px){
+  .form-width{
+  width: 200px;
+  }
+}
+
+@media screen and (max-width: 480px){
+  .min-480{
+    display:none;
+  }
+  
+  .form-width{
+  width: 100px;
+  }
+}
+
+/*お気に入りボタン*/
+
+.fav-button {
+  background-color: rgba(0,0,0, 0);
+  border: none;
+}
+
+.fav-position {
+  position: absolute;
+  transform: translate(0%, -50%);
+  left: 13px;
+  top: 50%;
+}
+
+@media screen and (max-width: 480px){
+  .fav-position{
+    transform: translate(-50%, -100%);
+    left: 50%;
+    top: 100%;
+  }
+}
+
+.star-y {
+  color: yellow;
+}
+
+/*menus/index*/
+.menu {
+  background-color: var(--main-bg-color);
+  color: white;
+  width: 75%;
+  margin: 4px auto;
+  position: relative;
+  padding-left: 0;
+  padding-right: 15px;
+}
+
+@media screen and (max-width: 480px){
+  .menu{
+    padding-bottom: 20px;
+    font-size: 12px;
+  }
+}
+
+.menu-list {
+  margin: 2px 20px;
+}
+
+.all-menu {
+  margin: 0 auto;
+}
+
+.detail {
+  margin-right: 5px;
+  color: rgb(150, 150, 255);
+  position: absolute;
+  transform: translate(0, -50%);
+  right: 0;
+  top: 50%;
+}
+
+.pagination {
+    margin: 20px auto 0;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.pagination .page-link {
+  background-color: rgba(3, 102, 53, 0.8);
+  border-width: 2px;
+  color: black;
+  font-weight: bold;
+}
+
+.button-on {
+  background-color: rgba(4, 130, 65, 1);
+  color: black;
+}
+
+.button-off {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: gray;
+}
+
+.button-right {
+  border-radius: 0px 5px 5px 0px;
+}
+
+.button-left {
+  border-radius: 5px 0px 0px 5px;
+}
+
+.toggle-button {
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+
+/*home*/
+.home-container {
+  padding: 8vh 0 4vh 0;
+}
+
+.home-center-item {
+  margin: 0 auto;
+}
+
+.btn-container {
+  height: 100px;
+}
+
+.gacha-btn {
+  width: 100px;
+  height: 100px;
+  font-size: 20px;
+  border-radius: 50px;
+  margin:0px 5px;
+}
+
+@media screen and (max-width: 480px){
+  .btn-container {
+    height: 66px;
+  }
+
+  .gacha-btn {
+    width: 66px;
+    height: 66px;
+    font-size: 10px;
+    border-radius: 33xpx;
+    margin:0px 5px;
+  }
+}
+
+.menu-board {
+  background-color: rgba(30, 57, 50, 1);
+  padding: 5% 0;
+  position: relative;
+  color: white;
+  margin-top: 3vh;
+}
+
+@media screen and (max-width: 480px){
+  .menu-container-title{
+    font-size: 36px;
+  }
+  .menu-board {
+    padding-bottom: 20px;
+  }
+}
+
+.star-w{
+  color: rgb(150, 150, 150);
+}
+
+.home-menu-lists li:not(:nth-child(1))
+{
+  margin-top: 1vh;
+}
+
+.menu-font{
+  font-family: 'Noto Sans JP',sans-serif;
+}
+
+.home-menu-name{
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+.home-menu-sub{
+  font-size: 0.8em;
+}
+
+.attention-container{
+  margin-top: 5vh;
+}
+
+.attention{
+  font-size: 12px;
+  height: 16px;
+}
+
+@media screen and (max-width: 480px) {
+
+  .home-menu-name{
+    font-weight: normal;
+    font-size: 12px;
+  }
+  
+  .home-menu-sub{
+    font-size: 8px;
+  }
+  
+  .attention{
+    font-size: 8px;
+  }
+  
+  .topping{
+    font-size:8px;
+  }
+}

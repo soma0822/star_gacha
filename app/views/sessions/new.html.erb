@@ -1,0 +1,29 @@
+<div class="background-image-example">
+  <div class="w-50 home-center-item">
+  <div class="home-container mt-5 text-center background-white">
+  <h1 class="text-center">ログイン</h1>
+    <% flash.each do |message_type, message| %>
+      <div class="alert alert-<%= message_type %>"><%= message %></div>
+    <% end %>
+     <%= form_with(url: login_path, scope: :session) do |f| %>
+      <div class="my-div d-flex align-items-center justify-content-center mt-3 ">
+        <%= f.label :email, "メールアドレス", class: "name-width" %>
+        <%= f.email_field :email, class: "form-width" %>
+      </div>
+
+      <div class="my-div d-flex align-items-center justify-content-center mt-3 ">
+        <%= f.label :password, "パスワード", class: "name-width" %>
+        <%= f.password_field :password, class: "form-width" %>
+      </div>
+      
+       <%= f.hidden_field :from_gacha, value: @from_gacha %>
+      <div class="my-div mt-3 ">
+      <%= f.submit "ログイン", class: "btn btn-primary" %>
+      </div>
+    <% end %>
+
+      <p class="mt-3">はじめてご利用の方 <br class="max-480"><%= link_to "新規登録", signup_path %></p>
+    </div>
+  </div>
+</div>
+</div>
